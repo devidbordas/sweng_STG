@@ -15,3 +15,9 @@ Balázs Tamás:
 Ádám Róbert:
 
 Bordás Dávid:
+
+              - +36704233701
+              
+              - devidbordas@gmail.com
+              
+              - facebook/messenger Dávid Bordás (trikó fás háttér)
