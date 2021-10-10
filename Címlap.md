@@ -15,7 +15,7 @@ Feladat címe: Első beadandó </h3>
 | Szabó Martin   | JDVK0Y          | szabo.martin@student.uni-miskolc.hu    |
 | Balázs Tamás   | HM23GB          | balazs.tamas@student.uni-miskolc.hu    |
 | Ádám Robi      | G3LZYU          | adam.robert@student.uni-miskolc.hu     |
-| Bordás Dávid   | ?               | bordas.david@student.uni-miskolc.hu    |
+| Bordás Dávid   | D2NGJO          | devidbordas@gmail.com   |
 
 
 <p>&nbsp;</p>
