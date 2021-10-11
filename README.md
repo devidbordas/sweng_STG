@@ -9,6 +9,9 @@ Sándor Máté:
               - facebook/messenger Sándor Máté (kék téli kabát)
 
 Szabó Martin:
+            - +36-30-509-9974
+            - szmartin0106@gmail.com  
+            - facebook/messenger Szabó Martin
 
 Balázs Tamás:
 
