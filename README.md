@@ -13,8 +13,10 @@ Szabó Martin:
             - szmartin0106@gmail.com  
             - facebook/messenger Szabó Martin
 
-Balázs Tamás:
-
+Balázs Tamás: 
+              - +36202338449
+              - balazstamas976@gmail.com
+              - facebook: Balázs Tamás
 Ádám Róbert:
 
 Bordás Dávid:
