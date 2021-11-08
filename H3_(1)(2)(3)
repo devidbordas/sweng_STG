@@ -44,3 +44,4 @@ A játékunk célja elsősorban a szórakoztatás, valamint elődje az ismert on
 3, A program funkciói
 =====================
 A következő alpont első részében a Tankies-hez kapcsolódó személyek által igénybe vehető funkciókat tárgyaljuk, a use-case ábra segít a felhasználó által elérhető opciók értelmezésében.
+<img src="Images/usecase_diagram.png" width="1000">
