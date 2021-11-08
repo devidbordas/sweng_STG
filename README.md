@@ -6,7 +6,7 @@ Sándor Máté:
 
               - samate113@gmail.com
               
-              - facebook/messenger Sándor Máté (kék téli kabát)
+              - facebook/messenger Sándor Máté (sárga mellény, napszemüveg)
 
 Szabó Martin:
          
