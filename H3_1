@@ -1,0 +1,46 @@
+<h3>Csoport neve: SoftTech Games </br>
+Feladat sorszáma: H1 </br>
+Feladat címe: Első beadandó </h3>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<h1 align="center">Első beadandó</font></h1>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p align="center">Gyakorlatvezető:</p>
+<h2 align="center">Krizsán Zoltán</font></h2>
+
+| Sándor Máté    | AQUSP7          | samate113@gmail.com     |
+|:--------------:|:---------------:|:------------------------------------:|
+| Szabó Martin   | JDVK0Y          | szabo.martin@student.uni-miskolc.hu    |
+| Balázs Tamás   | HM23GB          | balazs.tamas@student.uni-miskolc.hu    |
+| Ádám Róbert    | G3LZYU          | adam.robert@student.uni-miskolc.hu     |
+| Bordás Dávid   | D2NGJO          | devidbordas@gmail.com   |
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p align="right">2021.10.11</p>
+
+1, Bevezetés
+=========
+Ebben a dokumentumban a csapatunk által fejlesztés alatt álló applikáció részletes specifikációját közöljük. Az alábbiakban határozzuk meg a rendszer által nyújtott szolgáltatásokat, kitérünk a megbízhatóságra és a teljesítményre vonatkozó követelményekre is. Megtalálható még a dokumentumban a hardver és szoftver interfészek jellemzői, és a fejlesztés során alkalmazott szabványok is. Továbbá a dokumentációhoz tartozik egy szótár is.
+
+2, Áttekintés
+====================
+A játékunk célja elsősorban a szórakoztatás, valamint elődje az ismert online „AZ” nevű játék továbbfejlesztése. A mi játékunk egy ingyenesen letölthető, regisztrációhoz kötött alkalmazás mely kibővült funkciókat tartalmaz az online változatához képpest. A local multiplayer megmarad, két fő tud majd játszani egy billentyűzeten egymás ellen. Ami érdekesebb, hogy a mi játékunkban lesz online multiplayer is ahol a játékosok akár a barátaik vagy akár random játékosok ellen tudnak játszani. Az online rendszer úgy működne, hogy minden játékos a 10. osztályból indulna(division) a játéktudástól függően lehetne feljebb kerülni egészen az első osztályig. Minél magasabb osztályban vagy annál jobb jutalmakat kapsz. Lesz egy bizonyos játékbeli pénz melynek neve Tcoin lesz. Ilyet gyűjthetnek a játékosok különböző objectivek teljesítésével és a heti teljesítményüket is jutalmazni fogjuk Tcoinnal valamint loot boxokkal.
+
+3, A program funkciói
+=====================
+A következő alpont első részében a Tankies-hez kapcsolódó személyek által igénybe vehető funkciókat tárgyaljuk, a use-case ábra segít a felhasználó által elérhető opciók értelmezésében.
