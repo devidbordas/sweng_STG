@@ -25,6 +25,10 @@ Balázs Tamás:
               - facebook: Balázs Tamás
 
 Ádám Róbert:
+      
+               - +36308995304
+               - roobi5960@icloud.com
+               - facebook: Ádám Robi ( https://www.facebook.com/adamrobi1.1/ )
 
 Bordás Dávid:
 
