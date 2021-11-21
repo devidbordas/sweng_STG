@@ -9,6 +9,10 @@ Ilyen például rengeteg játék esetében:
 - Reakció képesség fejlesztése
 - Reakció idő
 
+
+![h3_8_usecase2](https://user-images.githubusercontent.com/79449424/142762318-88b101ae-96e3-4f65-a3c9-20862fb1229f.png)
+
+
 Amióta létezik számítógép, a számítógépes játékok is léteznek. Kezdetben nyilván elég egyszerű játékok voltak, de az akkori időkben ezek is áttörő erőjűek voltak az emberek számára. 
 Azonban a kor és természetesen az informatika fejlődésével (elsősorban a hardver és perifériás eszközök iszonyatos nagy mértékű fejlesztése) lehetőség nyíl olyan szintű játékok megvalósításár is amelyek már már műalkotásnak számítanak.
 
@@ -19,6 +23,9 @@ Egy egy játék óriási költségvetéssel rendelkezik és akár több száza i
 - Tesztelők
 - Grafikusok
 - Szinkronok
+
+![h3_8_usecase3](https://user-images.githubusercontent.com/79449424/142762330-43715a6d-f554-404e-8105-8173bf1d257f.png)
+
 
 **Java**
 
