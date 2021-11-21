@@ -18,3 +18,5 @@ Természetesen mivel van a játékban lehetőség prérium előfizetésre, amely
 - Extra pontszerzési lehetőségek a könnyebb fejlődés és fejlesztés érdekében
 
 Nem sokban tér el ez a felület sem a többi felülettől (amely hasonló, mint a mi álltalunk készülő játék). A használata egyszerű, az oldalak letisztultak és egyértelmű magyarázatokat adnak mindenhez, ami ahhoz szükséges, hogy könnyedén és gyorsan elsajátítsunk a játékkal kapcsolatban mindent.
+
+![h3_4](https://user-images.githubusercontent.com/79449424/142762279-6bd55858-b060-4db5-bc5d-a00e50ba72fc.png)
