@@ -31,26 +31,26 @@ A weboldal karbantartója.
 Help rendszer(Use-Case)
 -----------------------
 Itt találnak a játékosok segítséget ha kérdésük merül fel a játékkal kapcsolatban.
-*Prekondíciók: A játékosnak problémája akad a játékkal kapcsolatban
-*Postkondíciók: A játékos problémája megoldódik
-*Szokásos működés(Main Flow): Probléma megoldás
-*Alternatív esetek(Alternative Flows): A játékos nem találja a választ a kérdésére
-*Kivételes esetek: Internet probléma
+* Prekondíciók: A játékosnak problémája akad a játékkal kapcsolatban
+* Postkondíciók: A játékos problémája megoldódik
+* Szokásos működés(Main Flow): Probléma megoldás
+* Alternatív esetek(Alternative Flows): A játékos nem találja a választ a kérdésére
+* Kivételes esetek: Internet probléma
 
 Kérdées feltétele(Use-Case)
 -----------------------
 A játékost kérdést tehet fel ha nem találja a megoldást a problémájára.
-*Prekondíciók: A játékos nem találja a választ a kérdésére
-*Postkondíciók: Az admin megválaszolja neki
-*Szokásos működés(Main Flow): Probléma megoldás
-*Alternatív esetek(Alternative Flows): A játékosnak nem megfelelő az admin válasza sem
-*Kivételes esetek: Internet probléma
+* Prekondíciók: A játékos nem találja a választ a kérdésére
+* Postkondíciók: Az admin megválaszolja neki
+* Szokásos működés(Main Flow): Probléma megoldás
+* Alternatív esetek(Alternative Flows): A játékosnak nem megfelelő az admin válasza sem
+* Kivételes esetek: Internet probléma
 
 Kérdés megválaszolása(Use-Case)
 -----------------------
 Az admin megválaszolja a kérdéseket amiket feltettek a játékosok
-*Prekondíciók: Az admin válaszol a játékosnak
-*Postkondíciók: A játékos megkapja a kérdésre a válaszát
-*Szokásos működés(Main Flow): Probléma megoldás
-*Alternatív esetek(Alternative Flows): A játékos feltesz még egy kérdést ha esetleg nem érthető még valamo
-*Kivételes esetek: Internet probléma
+* Prekondíciók: Az admin válaszol a játékosnak
+* Postkondíciók: A játékos megkapja a kérdésre a válaszát
+* Szokásos működés(Main Flow): Probléma megoldás
+* Alternatív esetek(Alternative Flows): A játékos feltesz még egy kérdést ha esetleg nem érthető még valamo
+* Kivételes esetek: Internet probléma
